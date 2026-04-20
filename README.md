@@ -223,7 +223,7 @@ python sickle_morph.py --data_root ./dataset --mode benchmark
 ```bibtex
 @article{sicklelite2026,
   title={SickleLite-MorphFormer: A Lightweight Morphology-Aware Hybrid Network for Sickle Cell Smear Classification Using Semi-Supervised Learning},
-  author={Urooj, Misha and others},
+  author={},
   journal={Under Review},
   year={2026}
 }
