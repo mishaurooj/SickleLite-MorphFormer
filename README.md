@@ -154,35 +154,55 @@ python sickle_morph.py --data_root ./dataset --mode benchmark
 
 ### Main Benchmark Figures
 
-- `benchmark_main_f1.png`
-- `benchmark_main_balanced_accuracy.png`
-- `benchmark_main_f1_vs_params.png`
-- `benchmark_latency_infer_ms.png`
-- `benchmark_gradcam_proposed.png`
+<p align="center">
+  <img src="Figures/benchmark_main_f1.png" width="48%">
+  <img src="Figures/benchmark_main_balanced_accuracy.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="Figures/benchmark_main_f1_vs_params.png" width="48%">
+  <img src="Figures/benchmark_latency_infer_ms.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="Figures/benchmark_gradcam_proposed.png" width="70%">
+</p>
 
 ### Main Model Figures
 
-- `SickleLite-MorphFormer_cm.png`
-- `SickleLite-MorphFormer_curves.png`
-- `SickleLite-MorphFormer_roc_pr.png`
-- `train_gradcam_proposed.png`
+<p align="center">
+  <img src="Figures/SickleLite-MorphFormer_cm.png" width="32%">
+  <img src="Figures/SickleLite-MorphFormer_curves.png" width="32%">
+  <img src="Figures/SickleLite-MorphFormer_roc_pr.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="Figures/train_gradcam_proposed.png" width="70%">
+</p>
 
 ### Backbone Comparison Figures
 
-- `ResNet18_cm.png`
-- `ResNet50_cm.png`
-- `DenseNet121_cm.png`
-- `EfficientNet-B0_cm.png`
-- `ConvNeXt-Tiny_cm.png`
-- `MobileNetV3-Small_cm.png`
+<p align="center">
+  <img src="Figures/ResNet18_cm.png" width="30%">
+  <img src="Figures/ResNet50_cm.png" width="30%">
+  <img src="Figures/DenseNet121_cm.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="Figures/EfficientNet-B0_cm.png" width="30%">
+  <img src="Figures/ConvNeXt-Tiny_cm.png" width="30%">
+  <img src="Figures/MobileNetV3-Small_cm.png" width="30%">
+</p>
 
 ### Ablation Figures
 
-- `A1_backbone_f1.png`
-- `A2_dsrm_f1.png`
-- `A3_context_f1.png`
-- `A4_fusion_f1.png`
-- `A5_learning_f1.png`
+<p align="center">
+  <img src="Figures/A1_backbone_f1.png" width="18%">
+  <img src="Figures/A2_dsrm_f1.png" width="18%">
+  <img src="Figures/A3_context_f1.png" width="18%">
+  <img src="Figures/A4_fusion_f1.png" width="18%">
+  <img src="Figures/A5_learning_f1.png" width="18%">
+</p>
 
 ---
 
